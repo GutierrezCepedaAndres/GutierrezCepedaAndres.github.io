@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #572364;
+  background: #aa45c4;
   text-shadow: none;
 }
 
 ::selection {
-  background: #572364;
+  background: #aa45c4;
   text-shadow: none;
 }
 
@@ -141,7 +141,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #9b3fb3;
+  color: #572364;
 }
 
 @media (min-width: 992px) {
