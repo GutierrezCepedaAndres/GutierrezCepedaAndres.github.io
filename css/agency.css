@@ -172,7 +172,12 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  color: #572364;
+  color: #fff;
+  text-shadow:
+   -1px -1px 0 #572364,  
+    1px -1px 0 #572364,
+   -1px 1px 0 #572364,
+    1px 1px 0 #572364;
   background-image: url("../img/hoan-vo-rNWzd_8rRI4-unsplash.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
