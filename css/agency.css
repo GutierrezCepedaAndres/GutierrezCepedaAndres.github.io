@@ -14,11 +14,11 @@ p {
 }
 
 a {
-  color: #aa43c4;
+  color: #572364
 }
 
 a:hover {
-  color: #572364;
+  color: #aa43c4;
 }
 
 .text-primary {
