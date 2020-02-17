@@ -11,15 +11,15 @@ body {
 
 p {
   line-height: 1.75;
-  color: #aa43c4;
+  color:  #572364;
 }
 
 a {
-  color: #572364
+  color: #aa43c4;
 }
 
 a:hover {
-  color: #572364;
+  color: #aa43c4;
 }
 
 .text-primary {
