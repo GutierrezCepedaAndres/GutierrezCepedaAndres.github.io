@@ -613,7 +613,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #572364;
+  border-color: #a441bd;
   box-shadow: none;
 }
 
